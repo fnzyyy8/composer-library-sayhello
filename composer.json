@@ -1,0 +1,18 @@
+{
+  "name": "rrim/belajar-composer-library",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "BelajarComposerLibrary\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "fnzyyy8",
+      "email": "farhanshidayat@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
